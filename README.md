@@ -1,6 +1,6 @@
-# Sai Dental Care Website
+# Krown Multispeciality Dental Care Website
 
-A modern, highly-responsive, and premium website designed with a "Warm Minimal" aesthetic for **Sai Dental Care**, a trusted oral health care clinic located in Kota, Rajasthan.
+A modern, highly-responsive, and premium website designed with a "Warm Minimal" aesthetic for **Krown Multispeciality Dental Care**, a trusted oral health care clinic located in Kota, Rajasthan.
 
 ## 🌟 Key Features
 
@@ -34,6 +34,6 @@ A modern, highly-responsive, and premium website designed with a "Warm Minimal" 
 
 ## 📍 Clinic Information
 
-* **Address:** 727, Basant Vihar, Blood Bank Rd, Kota, Rajasthan 324009
-* **Contact Phone / WhatsApp:** +91 95290 24026
+* **Address:** Zila Chikitsalaya (Satellite Hospital), Rampura, Kota, Rajasthan 324001
+* **Contact Phone / WhatsApp:** +91 99299 20607
 * **Hours:** 10:00 AM - 09:00 PM (Sunday to Saturday)
